@@ -1,5 +1,5 @@
 # Pancakes
-
+![img_1.png](img_1.png)
 ## Ingredients
 1. 1 Egg
 2. 1/4 Measuring Cup Sugar
