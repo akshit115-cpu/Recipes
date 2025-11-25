@@ -1,5 +1,4 @@
 # Palak Paneer
-## Source: https://www.youtube.com/watch?v=JI4DtsiYm34
 ![img_2.png](img_2.png)
 
 ## Ingredients
@@ -31,3 +30,5 @@
 11. Cook on low heat for 5 mins
 12. Add Cream/yogurt/milk (optional)
 13. Enjoy
+
+### [Source Youtube Video](https://www.youtube.com/watch?v=JI4DtsiYm34)
