@@ -1,5 +1,7 @@
 title: Recipe Book
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+- jekyll-remote-theme
 
 permalink: pretty
 search_enabled: false
