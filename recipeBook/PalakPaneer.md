@@ -1,9 +1,20 @@
 # Palak Paneer
 ## Source: https://www.youtube.com/watch?v=JI4DtsiYm34
-
+![img_2.png](img_2.png)
 
 ## Ingredients
 - Spinach
+- Paneer
+- Oil/Butter
+- Cumin (Jeera)
+- Onion
+- Chilli
+- Garlic
+- Ginger
+- Turmeric
+- Red Chilli powder
+- coriander powder
+- Cream or Cream Substitute (optional)
 
 
 ## Recipe
@@ -18,4 +29,5 @@
 9. Cook on low heat for 5 mins
 10. Add chunks of paneer
 11. Cook on low heat for 5 mins
-12. Enjoy
+12. Add Cream/yogurt/milk (optional)
+13. Enjoy
