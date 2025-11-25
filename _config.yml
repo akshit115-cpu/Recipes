@@ -1,5 +1,5 @@
 title: Recipe Book
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 permalink: pretty
 search_enabled: false
