@@ -2,4 +2,5 @@
 
 1. ### [Pancakes](recipeBook/Pancakes.md)
 2. ### [Chicken Fried Rice](recipeBook/ChickenFriedRice.md)
-2. ### [Palak Paneer](recipeBook/PalakPaneer.md)
+3. ### [Palak Paneer](recipeBook/PalakPaneer.md)
+4. ### [Cookies (Air Fryer)](recipeBook/AirFryerCookies.md)
